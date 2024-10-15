@@ -19,5 +19,7 @@ The dashboard is built to provide key insights into **bike purchase trends**. It
 - **Excel**: For data analysis, pivot tables, and dashboard creation.
 - **Charts & Graphs**: Used for visualization to make data more understandable.
 
+  
+
 
 Feel free to reach out if you have any feedback or suggestions!
